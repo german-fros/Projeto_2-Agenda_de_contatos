@@ -10,7 +10,8 @@ body {
 }
 
 #container {
-    width: 80vw;
+    width: 70vw;
+    max-width: 900px;
     height: 100vh;
     margin: auto;
     padding: 10px 20px;
